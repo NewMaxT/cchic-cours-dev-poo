@@ -1,0 +1,15 @@
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\bin\Debug\net6.0\ConsoleGame.exe
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\bin\Debug\net6.0\ConsoleGame.deps.json
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\bin\Debug\net6.0\ConsoleGame.runtimeconfig.json
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\bin\Debug\net6.0\ConsoleGame.dll
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\bin\Debug\net6.0\ConsoleGame.pdb
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.AssemblyReference.cache
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.GeneratedMSBuildEditorConfig.editorconfig
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfoInputs.cache
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.AssemblyInfo.cs
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.csproj.CoreCompileInputs.cache
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.dll
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\refint\ConsoleGame.dll
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.pdb
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ConsoleGame.genruntimeconfig.cache
+E:\cchic.ca\S3\DevObjet\ConsoleGame\ConsoleGame\obj\Debug\net6.0\ref\ConsoleGame.dll
